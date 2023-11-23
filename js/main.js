@@ -22,7 +22,7 @@ function registro() {
 function inicioDeSesion() {
     let usuarioIngresado;
     let contraseniaIngresada;
-
+    alert("Inicie sesion");
     do {
         usuarioIngresado = prompt("Ingrese su nombre de usuario:");
         contraseniaIngresada = prompt("Ingrese su contraseña numérica:");
